@@ -1,0 +1,54 @@
+/* Header/Logo Title */
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #000000;
+  color: white;
+  font-size: 30px;
+  font-family: cursive;
+}
+.tabs {
+  padding: 20px;
+  text-align: left;
+  background: #000000;
+  color: white;
+  font-size: 20px;
+  font-family: cursive;
+}
+.topText {
+  border-color: white;
+  text-align: left;
+  font-size: 18px;
+  font-family: cursive;
+}
+.bottomText {
+  border-color: white;
+  text-align: left;
+  font-size: 18px;
+  font-family: cursive;
+}
+.createMemeButton {
+  text-align: left;
+  font-size: 22px;
+  font-family: cursive;
+  background-color: white;
+}
+.rainbowButton {
+  text-align: center;
+  width: calc(12vw + 0px);
+  height: calc(3vw + 6px);
+  background-image: linear-gradient(
+    90deg,
+    #00c0ff 0%,
+    #ffcf00 49%,
+    #fc4f4f 80%,
+    #00c0ff 100%
+  );
+  border-radius: 5px;
+
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  font-size: 2.2vw;
+  font-weight: bold;
+}
